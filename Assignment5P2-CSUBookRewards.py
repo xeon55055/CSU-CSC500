@@ -15,6 +15,7 @@ elif books_purchased >= 8:
 else:
     points_earned = 0
 
+
 # Print the number of points awarded
 print(f"You've earned a total of {points_earned} points this month.")
 
